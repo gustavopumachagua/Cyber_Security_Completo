@@ -388,5 +388,3 @@ Bienvenidos a los apuntes completo de **Cyber Security Roadmap**.
 [🔼](#temario)
 
 ---
-# Cyber_Security_Completo
-# Cyber_Security_Completo
